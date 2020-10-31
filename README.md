@@ -1,11 +1,11 @@
 ### Hi there 👋
-<a>
-  <img src="https://github.com/sagdish/sagdish/blob/main/logo.svg"/>
-</a>
+
+#### What can be measured - can be improved
+
 <!--
 **sagdish/sagdish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href="https://soeren.codes/" target="_blank">
-  <img src="https://github.com/CER10TY/CER10TY/blob/master/sjlogo-anim.svg">
+<a>
+  <img src="https://github.com/sagdish/sagdish/blob/main/logo.svg"/>
 </a>
 
 
