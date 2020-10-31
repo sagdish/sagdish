@@ -1,7 +1,13 @@
 ### Hi there 👋
 
+<img src="https://github.com/sagdish/sagdish/blob/main/logo.svg">
+
 <!--
 **sagdish/sagdish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://soeren.codes/" target="_blank">
+  <img src="https://github.com/CER10TY/CER10TY/blob/master/sjlogo-anim.svg">
+</a>
+
 
 Here are some ideas to get you started:
 
