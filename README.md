@@ -1,5 +1,17 @@
-### What can be measured - can be improved
-**Action over perfection**
+## Hey I'm Sagdi, Web developer with *Design* in mind
+
+### My motto is:
+#### What can be measured - can be improved
+#### Action over perfection
+
+### I'm specializing at:
+* Front End & Back End Development
+* Responsive Web Design
+* Wire-framing & High Fidelity mock ups
+
+
+[my website](https://sagdi.com) - [dribble](https://dribbble.com/sagdish)
+
 
 ![personal logo](https://github.com/sagdish/sagdish/blob/main/myBrand-s.png)
 
