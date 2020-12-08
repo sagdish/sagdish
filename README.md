@@ -1,7 +1,7 @@
 ### What can be measured - can be improved
 **Action over perfection**
 
-![personal logo](https://github.com/sagdish/sagdish/blob/main/myBrand.png)
+![personal logo](https://github.com/sagdish/sagdish/blob/main/myBrand-s.png)
 
 <!--
 **sagdish/sagdish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
