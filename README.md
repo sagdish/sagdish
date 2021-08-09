@@ -5,9 +5,9 @@
 #### Action over perfection
 
 ### I'm specializing at:
-* Front End & Back End Development
-* Responsive Web Design
-* Wire-framing & High Fidelity mock ups
+* Front End & Full Stack Development
+* Web Design
+* Wire-framing & Mock ups
 
 
 [my website](https://sagdi.com) - [dribble](https://dribbble.com/sagdish)
