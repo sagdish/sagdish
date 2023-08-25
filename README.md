@@ -1,4 +1,4 @@
-## Hey I'm Sagdi, Web developer with the *Design* in mind
+## Hey I'm Sagdi, Web developer -> Product Manager with the *Design* in mind
 
 ### My motto is:
 #### What can be measured - can be improved
